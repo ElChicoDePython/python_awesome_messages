@@ -8,7 +8,7 @@ setup(
    author_email='samuellopezsaura@gmail.com',
    packages=find_packages(),
    license='MIT',
-   url='https://github.com/elchicodepython/awesome_messages',
+   url='https://github.com/elchicodepython/python_awesome_messages',
    classifiers=[
        "Programming Language :: Python :: 3",
        "License :: OSI Approved :: MIT License",
